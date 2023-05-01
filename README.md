@@ -1,6 +1,6 @@
 # gitPractice
 
-AbstractL This project is to practice git.
+Abstract: This project is to practice git.
 [See Demo](https://www.google.com/)
 
 ## Vim modes
