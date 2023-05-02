@@ -11,6 +11,7 @@ def print_hello():
 	'Jane',
 	'Gun-Dong',
 	'Dong-Won',
+        'Yeon-Jin',
 	] #w/ trailing comma
     for f_name in names:
         print(f'hello, {f_name}')
